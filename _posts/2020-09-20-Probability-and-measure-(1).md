@@ -8,7 +8,7 @@ author: mjyoo2
 ### Sigma-algebra
 ---
 ##### Definition
-주어진 $Set\ X$에 대하여, $X$의 모든 $subset$의 $collection$인 $C$의 부분집합 $S$가 있을 때, 아래의 조건을 만족하면 $\sigma\text{-}algebra\ on\ X$라 한다.
+주어진 $$Set\ X$$에 대하여, $$X$$의 모든 $subset$의 $collection$인 $C$의 부분집합 $S$가 있을 때, 아래의 조건을 만족하면 $\sigma\text{-}algebra\ on\ X$라 한다.
 
 $ 1.\ S \neq \emptyset$
 $ 2.\ For\ all\ s \in S, s^c \in S$
