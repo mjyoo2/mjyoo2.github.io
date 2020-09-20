@@ -21,7 +21,7 @@ $$ 3.\ Let\ s_1,\ s_2, ... \in S, then\ \bigcup_{i} s_i \in S\\$$
 
 $$1.\ 모든\ S의\ element\ E에\ 대하여, \mu\left(E\right)\geq 0\\$$
 $$2.\ \mu\left(\emptyset\right) = 0\\$$
-$$3.\ 모든\ pairwise\ disjoint\ set의\ countable한$ $\ collection \left\{E_k\right\}_{k=1}^{\infty} 에\ 대하여\ \mu\left(\bigcup_{k=1}^{\infty}E_k\right) = \sum_{k=1}^{\infty} \mu\left(E_k\right)\\$$
+$$3.\ 모든\ pairwise\ disjoint\ set의\ countable한\ collection \left\{E_k\right\}_{k=1}^{\infty} 에\ 대하여\ \mu\left(\bigcup_{k=1}^{\infty}E_k\right) = \sum_{k=1}^{\infty} \mu\left(E_k\right)\\$$
 
 위$$\ 3번을\ 가산가법적\ 특성\ 이라\ 한다.\ (contable\ additivity$$)
 
