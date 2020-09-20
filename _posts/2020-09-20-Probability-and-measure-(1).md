@@ -25,7 +25,7 @@ $$3.\ 모든\ pairwise\ disjoint\ set의\ countable한\ collection \left\{E_k\ri
 
 위$$\ 3번을\ 가산가법적\ 특성\ 이라\ 한다.\ (contable\ additivity$$)
 
-이 때, $$\left(X, S\right)$$ 를 $measurable\ space$라 하고, $$\left(X, S, \mu\right)$$ 를 $$measure\ space$$라 한다.
+이 때, $$\left(X, S\right)$$ 를 $$measurable\ space$$라 하고, $$\left(X, S, \mu\right)$$ 를 $$measure\ space$$라 한다.
 
 ## Measurable function
 ---
