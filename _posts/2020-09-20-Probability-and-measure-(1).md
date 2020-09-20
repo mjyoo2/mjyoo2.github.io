@@ -31,4 +31,5 @@ $$3.\ 모든\ pairwise\ disjoint\ set의\ countable한$ $\ collection \left\{E_k
 ---
 ### Definition
 주어진 $$Set\ X,\ Y$$ 위의 $$\sigma\text{-}algebra\ S,\ T$$ 가 존재한다. ($$measurable\ space\ (X, S),\ (Y, T)$$) 이 때, 아래 조건의 만족하는 함수 $$f: X \to Y$$ 를 $$measurable\ function$$이라고 한다.
+
 $$for\ every\ E\in T\ the\ pre\text{-}image\ of\ E\ under\ f\ is\ in\ S,\ f^{-1}\left(E\right):= \left\{x \in X|f\left(x\right)\in E\right\} \in S\\$$
