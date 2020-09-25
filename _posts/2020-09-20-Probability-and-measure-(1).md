@@ -10,7 +10,7 @@ author: mjyoo2
 ### Definition
 주어진 $$Set\ X$$에 대하여, $$X$$의 모든 $$subset$$의 $$collection$$인 $$C$$의 부분집합 $$S$$가 있을 때, 아래의 조건을 만족하면 $$\sigma\text{-}algebra\ on\ X$$라 한다.
 
-$$ 1.\ S \neq \emptyset\\$$
+$$ 1.\ \emptyset\ \in\ S\\$$
 $$ 2.\ For\ all\ s \in S, s^c \in S\\$$
 $$ 3.\ Let\ s_1,\ s_2, ... \in S, then\ \bigcup_{i} s_i \in S\\$$
 
